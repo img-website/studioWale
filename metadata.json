@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Tools Studio",
+  "description": "A comprehensive suite of AI-powered tools for image, video, audio, and document processing using Gemini and advanced generative models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
